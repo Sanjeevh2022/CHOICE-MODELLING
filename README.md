@@ -1,2 +1,2 @@
-# CHOICE-MODELLING
-Conjoint Analysis on consumer preferences on Sunnyvale, California Housing Market
+# CHOICE-MODELLING: Sunnyvale, California
+Conjoint analysis is a popular market research approach for measuring the value that consumers place on individual and packages of features of a product. In this exercise, I have analyzed the ‘HousingMarket.csv’ dataset, which contains information on people who have previously purchased houses and are relocating to a high-value neighborhood in Sunnyvale, California. Consumers provided input on their preferences for houses in different models (such as colonials, craftsman style, and condominiums) and indicated their preferred choices. Information on comparable house sales from the school district or zip code is provided on a square-foot basis. Several attributes that are important in the purchase of a house. Also part of the dataset such as number of bedrooms, price if purchased without a mortgage, etc.
